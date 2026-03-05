@@ -52,8 +52,3 @@ Worked on **machine learning workflows and BCZT ceramics material analysis**.
 ### Communication Intern – BSNL
 Studied **fiber optic communication infrastructure and network operations**.
 
----
-
-## 📫 Connect With Me
-
-📧 **Email:** samitapotnuru@gmail.com  
