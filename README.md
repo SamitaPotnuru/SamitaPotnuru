@@ -38,8 +38,8 @@ Developed an ESP32-based machine learning model to detect early signs of Parkins
 Built a GPS-guided robot capable of waypoint navigation with **90% accuracy**.
 
 ### AI Recommendation Engine
-Developed a CNN-based recommendation system for **historical image categorization**.
----
+**Developed a CNN-based recommendation system for **historical image categorization**.
+**---
 
 ## 💼 Experience
 
