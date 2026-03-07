@@ -40,6 +40,7 @@ Built a GPS-guided robot capable of waypoint navigation with **90% accuracy**.
 ### AI Recommendation Engine
 **Developed a CNN-based recommendation system for historical image categorization.
 **
+
 ---
 
 ## 💼 Experience
